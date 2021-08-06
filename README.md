@@ -8,8 +8,10 @@
   4. Licensing, Acknowledgements
 
 # Installation
-  1. [Anaconda - Python 3](https://www.anaconda.com/products/individual):
-  2. [imbalanced-learn](https://imbalanced-learn.org/stable/)
+  1. [Anaconda - Python 3](https://www.anaconda.com/products/individual): contains the most of the required libraries.
+  2. [imbalanced-learn](https://imbalanced-learn.org/stable/): it is required for handling the class imbalance problem.
     
     pip install imbalanced-learn
+    
+  # About the project
     
