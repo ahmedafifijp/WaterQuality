@@ -5,7 +5,8 @@
   1. Installation
   2. About the project
   3. File Descriptions
-  4. Licensing, Acknowledgements
+  4. Results
+  5. Licensing, Acknowledgements
 
 ## Installation
   1. [Anaconda - Python 3](https://www.anaconda.com/products/individual): contains the most of the required libraries.
@@ -17,4 +18,14 @@ Water quality is fundamental to health. It is important to decide whether the wa
 
   1. Data preparation
   2. Model training and evaluation
-  3- Handling class imbalance    
+  3. Handling class imbalance
+
+## File Descriptions
+To make it simple, all operations are collected in one Notebook "WaterQuality.ipynb".
+
+## Results
+The main findings of the code and analysis can be found at the post available [here](https://medium.com/@ah.z.afifi/water-quality-prediction-using-machine-learning-31b4c7ac977c)
+
+## Licensing, Acknowledgements
+The data credict goes to "[MsSmartyPants](https://www.kaggle.com/mssmartypants)", data license and other information can be found [here](https://www.kaggle.com/mssmartypants/water-quality) 
+
