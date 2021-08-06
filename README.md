@@ -1,6 +1,5 @@
 # WaterQuality
-Simple machine learning classifiers to predict water quality
-
+  Simple machine learning classifiers to predict water quality
 **Table of Contents**
   1. Installation
   2. About the project
