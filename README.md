@@ -13,4 +13,8 @@
     
     pip install imbalanced-learn  
 ## About the project
-    
+Water quality is fundamental to health. It is important to decide whether the water is safe or not and this decision is based on many factors. Since water quality depends mainly on the concentration of a certain group of elements in it, a model can be built to determine the water quality based on that. Here, I will show how you can use [Kaggle's water quality dataset](https://www.kaggle.com/mssmartypants/water-quality) to build several machine learning models and tackle key challenges. The following tasks are performed:
+
+  1. Data preparation
+  2. Model training and evaluation
+  3- Handling class imbalance    
